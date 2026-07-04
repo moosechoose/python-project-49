@@ -9,6 +9,8 @@ def main():
             game_module = importlib.import_module("scripts.brain_even")
         case "brain-calc":
             game_module = importlib.import_module("scripts.brain_calc")
+        case "brain-gcd":
+            game_module = importlib.import_module("scripts.brain_gcd")
     run_game(game_module.main)
 
 
