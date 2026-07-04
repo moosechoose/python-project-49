@@ -9,4 +9,5 @@ Sqale Rating https://sonarcloud.io/api/project_badges/measure?project=moosechoos
 Security Rating https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=security_rating
 Bugs https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=bugs
 Vulnerabilities https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=vulnerabilities
-Asciinema https://asciinema.org/a/bTx39knsBfWSxMbA
+Asciinema brain_even https://asciinema.org/a/bTx39knsBfWSxMbA
+Asciinema brain_calc https://asciinema.org/a/5lztTVq4IMCPoXBn
