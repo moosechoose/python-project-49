@@ -28,7 +28,7 @@ def main():
     while correct_answers_in_row < 3:
         prog = progression()
         changed_prog, correct_answer = missing_element(prog)
-        print(f"Question: {str(changed_prog)}")
+        print("Question: " + " ".join(map(str, changed_prog)))
         answer = prompt.string("Your answer:")
         answer_int = int(answer.strip())
         
