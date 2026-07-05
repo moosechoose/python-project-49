@@ -1,10 +1,10 @@
+import math
 import random
 
 import prompt
 
-import math
-
 from brain_games.cli import welcome_user
+
 
 def is_prime(number):
     if number < 2:
@@ -18,6 +18,7 @@ def is_prime(number):
         if number % i == 0:
             return "no"
     return "yes"
+
 
 def main():
     name = welcome_user()
