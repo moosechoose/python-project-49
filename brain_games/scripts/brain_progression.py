@@ -17,7 +17,7 @@ def missing_element(progression):
     missing_index = random.randint(0, len(progression) - 1)
     correct_value = progression[missing_index]
     changed_progression = progression.copy()
-    changed_progression[missing_index] = ..
+    changed_progression[missing_index] = ".."
     return changed_progression, correct_value
 
 
