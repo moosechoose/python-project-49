@@ -1,14 +1,15 @@
 Project Badges
-Duplicated Lines Density https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=duplicated_lines_density
-Reliability Rating https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=reliability_rating
-Alert Status https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=alert_status
-Sqale Index https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=sqale_index
-Ncloc https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=ncloc
-Code Smells https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=code_smells
-Sqale Rating https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=sqale_rating
-Security Rating https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=security_rating
-Bugs https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=bugs
-Vulnerabilities https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=vulnerabilities
+https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=alert_status
+https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=bugs
+https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=code_smells
+https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=duplicated_lines_density
+https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=ncloc
+https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=reliability_rating
+https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=security_rating
+https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=sqale_index
+https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=sqale_rating
+https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=vulnerabilities
+
 Asciinema brain_even https://asciinema.org/a/bTx39knsBfWSxMbA
 Asciinema brain_calc https://asciinema.org/a/5lztTVq4IMCPoXBn
 Asciinema brain_gcd https://asciinema.org/a/iRPYlrnNAhZqZjWR
