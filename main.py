@@ -1,6 +1,7 @@
-import prompt
 import importlib
+
 from engine.core import run_game
+
 
 def main():
     print("Hello from python-project-49!")
@@ -11,6 +12,8 @@ def main():
             game_module = importlib.import_module("scripts.brain_calc")
         case "brain-gcd":
             game_module = importlib.import_module("scripts.brain_gcd")
+        case "brain-progression":
+            game_module = importlib.import_module("scripts.brain_progression")
     run_game(game_module.main)
 
 
