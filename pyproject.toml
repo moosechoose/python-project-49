@@ -2,7 +2,7 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = "Add your description here"
-authors = ["moosechoose"]
+authors = [name = "moosechoose", email = "los.karina.kon@gmail.com"]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
