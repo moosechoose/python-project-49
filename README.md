@@ -13,3 +13,4 @@ Asciinema brain_even https://asciinema.org/a/bTx39knsBfWSxMbA
 Asciinema brain_calc https://asciinema.org/a/5lztTVq4IMCPoXBn
 Asciinema brain_gcd https://asciinema.org/a/iRPYlrnNAhZqZjWR
 Asciinema brain_progression https://asciinema.org/a/bmWAlfhHhLE1skn4
+Asciinema brain_prime https://asciinema.org/a/pAjcfFwqKkuWuyB2
