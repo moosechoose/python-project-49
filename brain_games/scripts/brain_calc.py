@@ -14,7 +14,7 @@ def main():
         number_1 = random.randint(1, 100)
         number_2 = random.randint(1, 100)
         symbol = random.choice(["+", "-", "*"])
-        print(f"Question:{number_1} {symbol} {number_2}")
+        print(f"Question: {number_1} {symbol} {number_2}")
         answer = prompt.string("Your answer:")
         answer_int = int(answer.strip())
         if symbol == "+":

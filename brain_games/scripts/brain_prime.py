@@ -27,7 +27,7 @@ def main():
     correct_answers_in_row = 0
     while correct_answers_in_row < 3:
         number = random.randint(1, 100)
-        print(f"Question:{number}")   
+        print(f"Question: {number}")   
         answer = prompt.string("Your answer:")
         correct_answer = is_prime(number)
         if answer == correct_answer:
