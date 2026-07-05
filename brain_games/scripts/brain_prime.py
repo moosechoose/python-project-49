@@ -23,7 +23,7 @@ def is_prime(number):
 def main():
     name = welcome_user()
     
-    print("/Answer \"yes\" if the number is prime, otherwise answer \"no\"./")
+    print("/Answer "yes" if given number is prime. Otherwise answer "no"./")
     correct_answers_in_row = 0
     while correct_answers_in_row < 3:
         number = random.randint(1, 100)
