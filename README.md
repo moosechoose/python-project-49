@@ -10,6 +10,8 @@ https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-proj
 https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=sqale_rating
 https://sonarcloud.io/api/project_badges/measure?project=moosechoose_python-project-49&metric=vulnerabilities
 
+https://github.com/moosechoose/python-project-49/actions/workflows/hexlet-check.yml/badge.svg
+
 Asciinema brain_even https://asciinema.org/a/bTx39knsBfWSxMbA
 Asciinema brain_calc https://asciinema.org/a/5lztTVq4IMCPoXBn
 Asciinema brain_gcd https://asciinema.org/a/iRPYlrnNAhZqZjWR
